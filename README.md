@@ -339,9 +339,12 @@ Test modules cover:
 
 ## 👥 Contributors
 
-| Name | Role |
+| Role | Member |
 |:---|:---|
-| **Omkar** | Developer |
+| **Project Lead & AI Engineer** | Omkar Rupnawar |
+| **Backend Developer** | Ajinkya Kadam |
+| **GUI & Services Developer** | Sandesh Jagdale |
+| **Testing & Documentation** | Ashish Jawane |
 
 ---
 
