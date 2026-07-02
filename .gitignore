@@ -1,0 +1,36 @@
+# ─── Python ──────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ─── Sensitive Data (DO NOT push to GitHub) ──────────────────────
+database/surveillance.db
+logs/
+alerts/
+recordings/
+backup/
+
+# ─── AI Model Weights (large files — share separately) ───────────
+models/*.pt
+models/*.pth
+models/*.rar
+
+# ─── Virtual Environment ─────────────────────────────────────────
+venv/
+.venv/
+env/
+.env
+
+# ─── IDE / Editor ────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
